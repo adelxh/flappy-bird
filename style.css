@@ -1,0 +1,37 @@
+html {
+    background-image: linear-gradient(to right top, #5989d1, #5b88d7, #5e87dd, #6385e3, #6a83e8);
+}
+.bor
+{ 
+    background-image: linear-gradient(to right top, #c8d7ee, #c1cafa, #cbb9fe, #e3a3f6, #ff87e0);
+    margin-left: 33%;
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 35%;
+    padding: 2px 10px 20px 8px;
+    -webkit-box-shadow: -2px 19px 25px 9px rgba(0,0,0,0.55);
+-moz-box-shadow: -2px 19px 25px 9px rgba(0,0,0,0.55);
+box-shadow: -2px 19px 25px 9px rgba(0,0,0,0.55);
+
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+    margin-left: 40%;
+    font-size: 25px;
+    color: black;
+}
+a:hover {
+    font-size: 27px;
+    transition: 0.8s;
+}
